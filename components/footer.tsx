@@ -4,7 +4,7 @@ export default function Footer() {
     <footer className="w-full py-4 text-center text-lg text-white">
       <h1 className="underline">
         
-        <Link href="https://github.com/kautilyadevaraj/SchedulingAlgorithmSimulator" target="_blank">
+        <Link href="https://github.com/Sharuhampali/Scheduling-Algorithm-Simulator.git" target="_blank">
           View Github Repository
         </Link>
       </h1>
